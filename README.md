@@ -1,1 +1,2 @@
-# matter.js-example
+# collisionAlgorithm
+Algorithm to detect collision between two objects
